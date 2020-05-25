@@ -1,0 +1,43 @@
+.post-wrapper {
+    width: 600px;
+    padding: 0 10px 10px 15px;
+    margin: 0;
+    display:flex;
+    flex-direction: column;
+      
+}
+
+.text-upper {
+    margin: 0;
+    max-width: 200px;
+    padding-bottom: 10px;
+}
+
+.text-below {
+    width:500px;
+    border: 1px solid #e5e5e5;
+}
+
+.text-below img {
+    width: 500px;
+}
+
+.title-below {
+    font-weight: bold;
+    padding: 5px 10px;
+}
+
+.text-below p {
+    width: 500px;
+    margin:0;
+    padding: 0 10px;
+}
+
+.text-below span {
+    color: grey;
+    opacity: 0.7;
+    padding: 0 10px;
+}
+
+
+

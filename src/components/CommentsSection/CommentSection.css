@@ -1,0 +1,16 @@
+.comment-section {
+    padding: 20px;
+    display: flex;
+}
+
+.comment-section span {
+    margin:0 30px 0 5px;
+}
+
+.small-repost {
+    color: green;
+}
+
+.small-like {
+    color: red;
+}
